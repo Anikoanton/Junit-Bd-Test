@@ -1,0 +1,3 @@
+.open tovar.db - открыть БД;
+.tables - список таблиц.
+select * from tovar; - select к БД.
